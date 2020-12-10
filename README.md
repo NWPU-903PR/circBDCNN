@@ -11,6 +11,7 @@ circBDCNN is a computational tool for distinguishing circRNAs from other lncRNAs
 -----
     $ python circBDCNN.py
 
-<br>Usage：
+<br>Contact：
 If you have any questions, please do not hesitate to contact us.
+
 baigang@mail.nwpu.edu.cn
